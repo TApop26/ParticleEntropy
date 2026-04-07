@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/TUDOR/Desktop/APS/cub/media/videos/animatie_entropie/480p15/partial_movie_files/DynamicEntropyColoring/4018814430_2955687268_1783106444.mp4'
+file 'file:C:/Users/TUDOR/Desktop/APS/cub/media/videos/animatie_entropie/480p15/partial_movie_files/DynamicEntropyColoring/2162024497_3543312089_3854619748.mp4'
+file 'file:C:/Users/TUDOR/Desktop/APS/cub/media/videos/animatie_entropie/480p15/partial_movie_files/DynamicEntropyColoring/1513106228_481065603_892401052.mp4'
+file 'file:C:/Users/TUDOR/Desktop/APS/cub/media/videos/animatie_entropie/480p15/partial_movie_files/DynamicEntropyColoring/2892288495_36664977_3779016638.mp4'
+file 'file:C:/Users/TUDOR/Desktop/APS/cub/media/videos/animatie_entropie/480p15/partial_movie_files/DynamicEntropyColoring/995572947_2631580503_3733801530.mp4'
